@@ -1,2 +1,3 @@
-# Data-Science-Bootcamp7
-My data projects in bootcamp
+# Data Science Bootcamp07
+
+My data projects in bootcamp.
